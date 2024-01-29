@@ -2,6 +2,8 @@
 
 The purpose of this exercise was to clean an intentionally dirtied set of handwritten letter image classification data.
 
+Link to exercise: https://github.com/sohashahidi/datasci_223_soha/blob/main/exercises/2-data-munging/exercise-dirty_emnist.ipynb
+
 ## Instructions
 
 To run this exercise, first make sure you have these packages installed:
